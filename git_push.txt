@@ -1,0 +1,17 @@
+#  只修改合并到一个  main主 项目
+git clone  your fork project
+
+cd  your project file
+
+修改你的项目文件
+
+git add .
+
+git status
+
+git commit -m "文本描述"
+
+git push
+
+
+
